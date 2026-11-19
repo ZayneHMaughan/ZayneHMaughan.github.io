@@ -1,17 +1,35 @@
----
-layout: default
----
 
-<div class="page-content">
-  <nav class="page-nav">
-    <a href="{{ '/' | relative_url }}">Home</a>
-    <a href="{{ '/about' | relative_url }}">About</a>
-    <a href="{{ '/projects' | relative_url }}">Projects</a>
-  </nav>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
 
-  <h1>{{ page.title }}</h1>
+<body>
 
-  <main>
+  <header class="top-nav">
+    <a class="site-name" href="{{ '/' | relative_url }}">
+      {{ site.title }}
+    </a>
+
+    <nav>
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/about' | relative_url }}">About</a>
+      <a href="{{ '/projects' | relative_url }}">Projects</a>
+    </nav>
+  </header>
+
+  <main class="content">
+    <h1>{{ page.title }}</h1>
     {{ content }}
   </main>
-</div>
+
+  <footer>
+    © {{ site.time | date: "%Y" }} {{ site.title }}
+  </footer>
+
+</body>
+</html>
