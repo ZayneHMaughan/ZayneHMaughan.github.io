@@ -1,0 +1,78 @@
+--- 
+title: "Resume"
+toc: false 
+format: 
+html: 
+    theme: 
+    css: 
+    page-layout: article
+---
+## Zayne Maughan
+
+### Contact 
+&nbsp;|&nbsp; zaynehmaughan@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/zayne-maughan) ∙ [GitHub](https://www.github.com/ZayneHMaughan)
+
+### SUMMARY
+Data scientist with over a year of full time work experience and a master’s in data analytics, with an emphasis on statistics, as well as a graduate certificate in machine learning and artificial intelligence. Experience with Python (pytorch, tensorflow), statistical modeling, and reproducible analysis. U.S. Army National Guard Cyber warfare officer with additional skills in networking, operating systems, security, and ethical hacking.
+
+### SKILLS
+Model Evaluation, R (survival, caret, plotly), Python (scikit-learn, Pytorch, tensorflow, dask), Feature Engineering, Time series Forecasting, Classification, SQL, C++, Git, Docker, Web scraping, Dimensionality Reduction, Linux, Databricks, MS SQL Server, LangChain, Networking, Ethical Hacking, CI/CD
+
+### EXPERIENCE
+**Sotera Health**                                                                                                                                               Aug 2025-Present
+*Data Analyst*	SLC, UT
+- Developed 10+ interactive dashboards using PowerBI to lead decisions covering millions of dollars
+- Built and compared various forecasting models (ARIMA, weighted moving Average) to predict operational success 
+- Optimized SQL pipelines, cutting dashboard load times by 50%
+**USDA**                                                                                                                                                        Dec 2024-Aug 2025 
+*Statistical Analyst*   	Logan, UT
+- Built and validated models predicting crop yield from image-derived features across 1,000+ plots, evaluated with RMSE, MAE, and Adj R2 
+- Compared 5 modeling approaches and documented tradeoffs and sensitivity to various filters
+- Wrote reproducible R pipelines for data prep, modeling, and reporting reducing query overhead by 80%                                                          
+**Utah State University** Library                                                                                                                Oct 2024-May 2025
+*Data Analyst*	Logan, UT
+Translated stakeholder questions into defined metrics and analyses, delivering 5+ dashboards guiding university planing
+**University of Utah Health**                                                                                                                        Jun 2024-Aug 2024
+*Strategy Analyst Intern*	SLC, UT
+Analyzed a $10B healthcare ecosystem to identify long-term opportunities and presented findings to senior leadership in executive briefings
+**BYU**                                                                                                                                                           Dec 2023-Apr 2024
+*Research Assistant*	Provo, UT
+Researched various machine learning methods, including Random forest geometry- and accuracy- proximities model compared to 5+ models
+**BYU CE**                                                                                                                                                     Apr 2022-Dec 2024
+*Quality Assurance Engineer*	Provo, UT
+Engineered tests for software developed to ensure minimal errors and tracked the software through Jira CI/CD pipeline
+
+
+EDUCATION
+**Utah State University**                                                                                                                              
+*Master of Data Analytics, Emphasis in Statistics*	
+Focused on machine and deep learning, statistical computing and programming, visualization, and data management
+**Brigham Young University**
+*Bachelor of Science: Statistics, Emphasis in Biostatistics*
+Relevant coursework: Survival Analysis, Data Structures and Algorithms, Machine Learning
+**Utah State University** 
+*Graduate Certificate in Machine Learning and Artificial Intelligence*
+	 
+
+## Featured Projects
+
+### [HealthCareApp]
+An application that utilizes a fine-tuned llm and other data sources,
+including a gradient-boosting classifier to guide users in their healthcare questions.
+
+### [Supreme Court RAG](projects/SCRAG.md)
+Built a RAG query module that sought greater understanding of various supreme court documents 
+
+### [FinalFourR](projects/finalfourr.md)
+Built and documented an R package with unit tests and vignettes for querying and modeling college basketball data  
+
+### [CFBPredR](projects/CFBPRED.md)
+Researched College Football Playoff commitee criteria and if they truly determine strength of schedule as a key metric in their rankings. 
+
+
+### MILITARY SERVICE
+**Army National Guard**                                                                                                                                  Apr 2024-Present
+*Cyber Warfare Officer*	
+Knowledge in operating systems (Linux, Windows), Networking (CCNA course completed), Reverse engineering (Ghidra), SQL injection, Pen testing, Hardening methods, Cyber operation planning
+Army Job Qualification Record Certificate: Network Analyst (Basic), Host Analyst (Basic)
+

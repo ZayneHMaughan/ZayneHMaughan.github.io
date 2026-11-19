@@ -1,5 +1,5 @@
 # NLP_FINAL
-## Supreme Court Research Assistant Guide
+## Supreme Court Retrival Augmented Generation Tool
 This research guide was designed to parse through various legal topics to 
 better understand the Supreme Court's decision-making.
 
