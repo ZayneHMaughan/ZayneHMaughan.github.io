@@ -53,13 +53,17 @@ Model Evaluation, R (survival, caret, plotly), Python (scikit-learn, Pytorch, te
 
 **Utah State University**   
 *Master of Data Analytics, Emphasis in Statistics*	
+
 -Focused on machine and deep learning, statistical computing and programming, visualization, and data management
 
 **Brigham Young University**
+
 *Bachelor of Science: Statistics, Emphasis in Biostatistics*
+
 -Relevant coursework: Survival Analysis, Data Structures and Algorithms, Machine Learning
 
 **Utah State University** 
+
 *Graduate Certificate in Machine Learning and Artificial Intelligence*
 	 
 
