@@ -3,7 +3,7 @@ title: "Resume"
 toc: false
 format:
   html:
-    theme: theme.scss
+    theme: [cosmo,theme.scss]
     css: styles.css
     page-layout: article
 ---

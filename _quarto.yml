@@ -3,14 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "Cooper Maughan - Data Science Portfolio"
+  title: "Zayne Maughan - Data Science Portfolio"
   description: "A showcase of my data science projects and learning journey"
 
   navbar:
     background: primary
     left:
       - text: "Home"
-        href: index.html
+        href: index.md
       - text: "About Me"
         href: about.md
       - text: "Resume"
