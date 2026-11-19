@@ -3,6 +3,45 @@ layout: article
 title: "Resume"
 toc: false 
 ---
+
+
+<style>
+  .print-button {
+    display: block;
+    margin: 0 0 12px;
+    padding: 6px 14px;
+    font: inherit;
+    font-size: 0.9rem;
+    border: 1px solid currentColor;
+    background: transparent;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  @page { size: Letter; margin: 0.4in 0.55in; }
+
+  @media print {
+    header, nav, footer, .navbar, #quarto-header, .nav-footer,
+    #quarto-sidebar, #quarto-margin-sidebar, #TOC, .page-navigation,
+    #title-block-header, .no-print { display: none !important; }
+
+    #quarto-content, .page-columns, main.content {
+      display: block !important;
+      margin: 0 !important;
+      padding: 0 !important;
+    }
+
+    body { font-size: 9.5pt; line-height: 1.25; }
+    h2 { margin-top: 0; }
+    h3 { margin: 8px 0 3px; font-size: 11.5pt; break-after: avoid; }
+    p, ul { margin-bottom: 3px; }
+    * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+    a[href]:after { content: none !important; }
+  }
+</style>
+
+<button class="print-button no-print" onclick="window.print()">Print / Save as PDF</button>
+
 ## Zayne Maughan
 
 ### Contact 
@@ -15,8 +54,10 @@ Data scientist with over a year of full time work experience and a master’s in
 Model Evaluation, R (survival, caret, plotly), Python (scikit-learn, Pytorch, tensorflow, dask), Feature Engineering, Time series Forecasting, Classification, SQL, C++, Git, Docker, Web scraping, Dimensionality Reduction, Linux, Databricks, MS SQL Server, LangChain, Networking, Ethical Hacking, CI/CD
 
 ### EXPERIENCE
-**Sotera Health** 
-*Data Analyst*	| SLC, UT (Aug 2025-Present)
+
+**Sotera Health**
+
+*Data Analyst* | SLC, UT (Aug 2025-Present)
 - Developed 10+ interactive dashboards using PowerBI to lead decisions covering millions of dollars
 - Built and compared various forecasting models (ARIMA, weighted moving Average) to predict operational success 
 - Optimized SQL pipelines, cutting dashboard load times by 50%
@@ -31,7 +72,7 @@ Model Evaluation, R (survival, caret, plotly), Python (scikit-learn, Pytorch, te
 *Data Analyst*	| Logan, UT (Oct 2024-May 2025)
 - Translated stakeholder questions into defined metrics and analyses, delivering 5+ dashboards guiding university planing
 
-**University of Utah Health** 
+**University of Utah Health**
 *Strategy Analyst Intern* | SLC, UT (Jun 2024-Aug 2024)
 - Analyzed a $10B healthcare ecosystem to identify long-term opportunities and presented findings to senior leadership in executive briefings
 
@@ -42,7 +83,6 @@ Model Evaluation, R (survival, caret, plotly), Python (scikit-learn, Pytorch, te
 **BYU CE**                                   
 *Quality Assurance Engineer* | Provo, UT (Apr 2022-Dec 2024)
 - Engineered tests for software developed to ensure minimal errors and tracked the software through Jira CI/CD pipeline
-
 
 ### EDUCATION
 
@@ -57,7 +97,6 @@ Model Evaluation, R (survival, caret, plotly), Python (scikit-learn, Pytorch, te
 **Utah State University** 
 *Graduate Certificate in Machine Learning and Artificial Intelligence*
 	 
-
 ### Featured Projects
 
 #### [HealthCareApp]

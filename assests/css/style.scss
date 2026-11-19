@@ -1,28 +1,92 @@
----
----
 
-@import "{{ site.theme }}";
-
-.page-content {
-  max-width: 1000px;
-  margin: 40px auto;
-  padding: 20px;
+:root {
+  --cream: #ffffcc;
+  --sage: #a1dab4;
+  --turquoise: #41b6c4;
+  --blue: #2c7fb8;
+  --deep-blue: #253494;
 }
 
-.page-nav {
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #ffffcc;
+  color: #253494;
+}
+
+/* Top navigation */
+.top-nav {
+  background: var(--blue);
+  padding: 20px 6%;
   display: flex;
-  gap: 25px;
-  padding-bottom: 20px;
-  border-bottom: 1px solid #ddd;
-  margin-bottom: 30px;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 3px solid var(--sage);
 }
 
-.page-nav a {
-  color: #159957;
-  text-decoration: none;
+.site-name {
+  font-size: 1.4rem;
   font-weight: bold;
+  color: var(--deep-blue);
+  text-decoration: none;
 }
 
-.page-nav a:hover {
-  text-decoration: underline;
+.top-nav nav {
+  display: flex;
+  gap: 28px;
+}
+
+.top-nav nav a {
+  color: var(--deep-blue);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.top-nav nav a:hover {
+  color: var(--blue);
+  border-bottom: 2px solid var(--turquoise);
+}
+
+/* Page content */
+.content {
+  max-width: 1050px;
+  margin: 45px auto;
+  padding: 20px;
+  min-height: 65vh;
+}
+
+.content h1 {
+  color: var(--deep-blue);
+  border-bottom: 4px solid var(--sage);
+  padding-bottom: 12px;
+}
+
+.content a {
+  color: var(--blue);
+}
+
+/* Footer */
+footer {
+  background: var(--deep-blue);
+  color: white;
+  padding: 25px 6%;
+  text-align: center;
+}
+
+/* Mobile navigation */
+@media (max-width: 600px) {
+  .top-nav {
+    flex-direction: column;
+    gap: 18px;
+  }
+
+  .top-nav nav {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 16px;
+  }
 }
