@@ -117,7 +117,7 @@ Data scientist with over a year of full time work experience and a master’s in
 	 
 ### Featured Projects
 
-#### [HealthCareApp]
+#### [HealthCareApp](projects/Healthcoach.md)
 An application that utilizes a fine-tuned llm and other data sources,
 including a gradient-boosting classifier to guide users in their healthcare questions.
 

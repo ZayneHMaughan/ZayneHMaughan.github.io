@@ -14,7 +14,7 @@ I am also serving as a U.S. Army National Guard cyber warfare officer with addit
 
 ## Featured Projects
 
-### [HealthCareApp]
+### [HealthCareApp](projects/Healthcoach.md)
 An application that utilizes a fine-tuned llm and other data sources,
 including a gradient-boosting classifier to guide users in their healthcare questions.
 
