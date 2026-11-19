@@ -3,9 +3,8 @@ title: "Zayne Maughan | Data Scientist"
 --- 
 
 # Summary 
-Data scientist with over a year of full time work experience and a master’s in data analytics, 
-focused on statistical modeling, as well as a graduate certificate in machine learning and artificial intelligence. 
-I have experience with Python (pytorch, tensorflow), statistical modeling, and reproducible analysis. 
+Data scientist with over a year of full time work experience and a master’s in data analytic with an emphasis in statistics and machine learning, as well as a graduate certificate in machine learning and artificial intelligence. 
+I have experience with Python (pytorch, tensorflow), R (survival, caret), statistical modeling, and reproducible analysis. 
 I am also serving as a U.S. Army National Guard Cyber warfare officer with additional skills in networking, operating systems, security, and ethical hacking.
 
 --- 
