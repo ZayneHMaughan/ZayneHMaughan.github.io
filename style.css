@@ -1,6 +1,6 @@
 
 :root {
-  --cream: #ffffcc;
+  --cream: #FAF3E3;
   --sage: #a1dab4;
   --turquoise: #41b6c4;
   --blue: #2c7fb8;
@@ -14,7 +14,7 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #ffffcc;
+  background: #fffffc;
   color: #253494;
 }
 
