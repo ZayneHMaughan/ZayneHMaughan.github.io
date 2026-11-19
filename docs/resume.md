@@ -10,7 +10,7 @@ html:
 ## Zayne Maughan
 
 ### Contact 
-zaynehmaughan@gmail.com &nbsp;∙ &nbsp; [LinkedIn](https://www.linkedin.com/in/zayne-maughan) ∙ [GitHub](https://www.github.com/ZayneHMaughan)
+[zaynehmaughan@gmail.com](zaynehmaughan@gmail.com) &nbsp;∙ &nbsp; [LinkedIn](https://www.linkedin.com/in/zayne-maughan) ∙ [GitHub](https://www.github.com/ZayneHMaughan)
 
 ### SUMMARY
 Data scientist with over a year of full time work experience and a master’s in data analytics, with an emphasis on statistics, as well as a graduate certificate in machine learning and artificial intelligence. Experience with Python (pytorch, tensorflow), statistical modeling, and reproducible analysis. U.S. Army National Guard Cyber warfare officer with additional skills in networking, operating systems, security, and ethical hacking.
@@ -20,6 +20,7 @@ Model Evaluation, R (survival, caret, plotly), Python (scikit-learn, Pytorch, te
 
 ### EXPERIENCE
 **Sotera Health** 
+
 *Data Analyst*	| SLC, UT (Aug 2025-Present)
 - Developed 10+ interactive dashboards using PowerBI to lead decisions covering millions of dollars
 - Built and compared various forecasting models (ARIMA, weighted moving Average) to predict operational success 
@@ -34,25 +35,30 @@ Model Evaluation, R (survival, caret, plotly), Python (scikit-learn, Pytorch, te
 **Utah State University Library** 
 *Data Analyst*	| Logan, UT (Oct 2024-May 2025)
 - Translated stakeholder questions into defined metrics and analyses, delivering 5+ dashboards guiding university planing
+
 **University of Utah Health** 
 *Strategy Analyst Intern* | SLC, UT (Jun 2024-Aug 2024)
 - Analyzed a $10B healthcare ecosystem to identify long-term opportunities and presented findings to senior leadership in executive briefings
+
 **BYU**                                                                                                                
 *Research Assistant* | Provo, UT (Dec 2023-Apr 2024)
 - Researched various machine learning methods, including Random forest geometry- and accuracy- proximities model compared to 5+ models
-**BYU CE**                                                                                                                                                    
+
+**BYU CE**                                   
 *Quality Assurance Engineer* | Provo, UT (Apr 2022-Dec 2024)
-Engineered tests for software developed to ensure minimal errors and tracked the software through Jira CI/CD pipeline
+-Engineered tests for software developed to ensure minimal errors and tracked the software through Jira CI/CD pipeline
 
 
 ### EDUCATION
 
 **Utah State University**   
 *Master of Data Analytics, Emphasis in Statistics*	
-Focused on machine and deep learning, statistical computing and programming, visualization, and data management
+-Focused on machine and deep learning, statistical computing and programming, visualization, and data management
+
 **Brigham Young University**
 *Bachelor of Science: Statistics, Emphasis in Biostatistics*
-Relevant coursework: Survival Analysis, Data Structures and Algorithms, Machine Learning
+-Relevant coursework: Survival Analysis, Data Structures and Algorithms, Machine Learning
+
 **Utah State University** 
 *Graduate Certificate in Machine Learning and Artificial Intelligence*
 	 
