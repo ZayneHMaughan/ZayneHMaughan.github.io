@@ -1,4 +1,4 @@
 plugins:
   - jekyll-remote-theme 
 
-remote_theme: pool/hyde@latest
+remote_theme: poole/hyde@latest
