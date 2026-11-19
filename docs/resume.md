@@ -1,6 +1,11 @@
 --- 
 layout: article
-title: "Resume"
+toc: false
+format:
+  html:
+    theme: [cosmo, theme.scss]
+    css: styles.css
+    page-layout: article
 ---
 
 
