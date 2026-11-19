@@ -10,6 +10,7 @@ format:
 ---
 
 
+```{=html} 
 <style>
   .print-button {
     display: block;
@@ -46,7 +47,7 @@ format:
 </style>
 
 <button class="print-button no-print" onclick="window.print()">Print / Save as PDF</button>
-
+```
 ## Zayne Maughan
 
 ### Contact 
