@@ -11,7 +11,7 @@ I am also serving as a U.S. Army National Guard cyber warfare officer with addit
 --- 
 ## Connect with me 
 
-[Resume](docs/resume.md) &nbsp; &nbsp; [About Me]() &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/zayne-maughan/) &nbsp; &nbsp; [Github](https://github.com/ZayneHMaughan)
+[Resume](docs/resume.qmd) &nbsp; &nbsp; [About Me]() &nbsp; &nbsp; [LinkedIn](https://www.linkedin.com/in/zayne-maughan/) &nbsp; &nbsp; [Github](https://github.com/ZayneHMaughan)
 ## Featured Projects
 
 ### [HealthCareApp]

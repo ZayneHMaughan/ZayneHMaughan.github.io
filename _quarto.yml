@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Cooper Maughan - Data Science Portfolio"
+  description: "A showcase of my data science projects and learning journey"
+
+  navbar:
+    background: primary
+    left:
+      - text: "Home"
+        href: index.html
+      - text: "About Me"
+        href: about.md
+      - text: "Resume"
+        href: resume.qmd
+
+
+format:
+  html:
+    theme: [cosmo, theme.scss]
+    toc: true
+    code-fold: true
+    code-tools: false
+    css: styles.css
