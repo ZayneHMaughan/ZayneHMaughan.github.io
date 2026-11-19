@@ -1,6 +1,0 @@
-title: [Zayne Maughan Data Science Portfolio]
-description: [Showcase my projects and skills]
-plugins:
-  - jekyll-remote-theme 
-
-remote_theme: pages-themes/cayman@master

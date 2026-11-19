@@ -1,5 +1,4 @@
 --- 
-layout: default
 title: "Zayne Maughan | Data Scientist"
 --- 
 
