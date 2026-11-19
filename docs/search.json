@@ -18,7 +18,7 @@
     "href": "index.html#connect-with-me",
     "title": "Zayne Maughan | Data Scientist",
     "section": "Connect with me",
-    "text": "Connect with me\nResume     About Me     LinkedIn     Github ## Featured Projects\n\n[HealthCareApp]\nAn application that utilizes a fine-tuned llm and other data sources, including a gradient-boosting classifier to guide users in their healthcare questions.\n\n\nSupreme Court RAG\nBuilt a RAG query module that sought greater understanding of various supreme court documents\n\n\nFinalFourR\nBuilt and documented an R package with unit tests and vignettes for querying and modeling college basketball data\n\n\nCFBPredR\nResearched College Football Playoff commitee criteria and if they truly determine strength of schedule as a key metric in their rankings.\n**See more projects at my Github. Additional Projects include a forecasting app, a crime rate study, and helping with a julia package focusing on financial options."
+    "text": "Connect with me\nResume     About Me     LinkedIn     Github"
   },
   {
     "objectID": "projects/CFBPRED.html",
@@ -117,5 +117,12 @@
     "title": "finalfourr",
     "section": "",
     "text": "The finalfourr package enables analysts, data scientists, and fans to:\n\nPredict NCAA tournament outcomes.\nExplore team performance trends.\nSimulate realistic game scenarios.\n\nIt offers both rigorous modeling and exploratory tools to deepen your understanding of NCAA men’s basketball."
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Zayne Maughan | Data Scientist",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\n[HealthCareApp]\nAn application that utilizes a fine-tuned llm and other data sources, including a gradient-boosting classifier to guide users in their healthcare questions.\n\n\nSupreme Court RAG\nBuilt a RAG query module that sought greater understanding of various supreme court documents\n\n\nFinalFourR\nBuilt and documented an R package with unit tests and vignettes for querying and modeling college basketball data\n\n\nCFBPredR\nResearched College Football Playoff commitee criteria and if they truly determine strength of schedule as a key metric in their rankings.\n**See more projects at my Github. Additional Projects include a forecasting app, a crime rate study, and helping with a julia package focusing on financial options."
   }
 ]
