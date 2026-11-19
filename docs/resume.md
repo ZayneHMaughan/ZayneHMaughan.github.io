@@ -10,7 +10,7 @@ html:
 ## Zayne Maughan
 
 ### Contact 
-[zaynehmaughan@gmail.com](zaynehmaughan@gmail.com) &nbsp;∙ &nbsp; [LinkedIn](https://www.linkedin.com/in/zayne-maughan) ∙ [GitHub](https://www.github.com/ZayneHMaughan)
+[zaynehmaughan@gmail.com](zaynehmaughan@gmail.com) &nbsp;∙ &nbsp; [LinkedIn](https://www.linkedin.com/in/zayne-maughan) &nbsp;∙ &nbsp; [GitHub](https://www.github.com/ZayneHMaughan)
 
 ### SUMMARY
 Data scientist with over a year of full time work experience and a master’s in data analytics, with an emphasis on statistics, as well as a graduate certificate in machine learning and artificial intelligence. Experience with Python (pytorch, tensorflow), statistical modeling, and reproducible analysis. U.S. Army National Guard Cyber warfare officer with additional skills in networking, operating systems, security, and ethical hacking.
@@ -20,7 +20,6 @@ Model Evaluation, R (survival, caret, plotly), Python (scikit-learn, Pytorch, te
 
 ### EXPERIENCE
 **Sotera Health** 
-
 *Data Analyst*	| SLC, UT (Aug 2025-Present)
 - Developed 10+ interactive dashboards using PowerBI to lead decisions covering millions of dollars
 - Built and compared various forecasting models (ARIMA, weighted moving Average) to predict operational success 
@@ -56,28 +55,26 @@ Model Evaluation, R (survival, caret, plotly), Python (scikit-learn, Pytorch, te
 - Focused on machine and deep learning, statistical computing and programming, visualization, and data management
 
 **Brigham Young University**
-
 *Bachelor of Science: Statistics, Emphasis in Biostatistics*
 - Relevant coursework: Survival Analysis, Data Structures and Algorithms, Machine Learning
 
 **Utah State University** 
-
 *Graduate Certificate in Machine Learning and Artificial Intelligence*
 	 
 
-## Featured Projects
+### Featured Projects
 
-### [HealthCareApp]
+#### [HealthCareApp]
 An application that utilizes a fine-tuned llm and other data sources,
 including a gradient-boosting classifier to guide users in their healthcare questions.
 
-### [Supreme Court RAG](projects/SCRAG.md)
+#### [Supreme Court RAG](projects/SCRAG.md)
 Built a RAG query module that sought greater understanding of various supreme court documents 
 
-### [FinalFourR](projects/finalfourr.md)
+#### [FinalFourR](projects/finalfourr.md)
 Built and documented an R package with unit tests and vignettes for querying and modeling college basketball data  
 
-### [CFBPredR](projects/CFBPRED.md)
+#### [CFBPredR](projects/CFBPRED.md)
 Researched College Football Playoff commitee criteria and if they truly determine strength of schedule as a key metric in their rankings. 
 
 
