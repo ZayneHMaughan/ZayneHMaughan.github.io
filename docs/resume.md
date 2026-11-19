@@ -2,11 +2,6 @@
 layout: article
 title: "Resume"
 toc: false 
-format: 
-html: 
-    theme: 
-    css: 
-    page-layout: article
 ---
 ## Zayne Maughan
 
