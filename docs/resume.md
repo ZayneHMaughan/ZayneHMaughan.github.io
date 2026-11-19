@@ -1,7 +1,6 @@
 --- 
 layout: article
 title: "Resume"
-toc: false 
 ---
 
 
