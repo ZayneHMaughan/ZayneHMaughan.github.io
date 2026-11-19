@@ -1,5 +1,5 @@
 --- 
-layout: article
+title: "Resume"
 toc: false
 format:
   html:
