@@ -11,15 +11,15 @@ I am also serving as a U.S. Army National Guard Cyber warfare officer with addit
 
 ## Featured Projects
 
-### HealthCareApp 
+### HealthCareApp {}
 An application that utilizes a fine-tuned llm and other data sources,
 including a gradient-boosting classifier to guide users in their healthcare questions.
 
-### Supreme Court RAG
+### Supreme Court RAG {projects/SCRAG.md}
 Built a RAG query module that sought greater understanding of various supreme court documents 
 
-### FinalFourR 
+### FinalFourR {projects/finalfourr.md}
 Built and documented an R package with unit tests and vignettes for querying and modeling college basketball data  
 
-### Case Study BYU 
-Researched Crime Rates in Chicago and variables that could impact them
+### CFBPredR {projects/CFBPRED.md}
+Researched College Football Playoff commitee criteria and if they truly determine strength of schedule as a key metric in their rankings. 
