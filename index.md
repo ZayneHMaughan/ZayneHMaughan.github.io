@@ -1,5 +1,6 @@
 --- 
-title: "Zayne Maughan | Data Scientist" 
+layout: default
+title: "Zayne Maughan | Data Scientist"
 --- 
 
 ## Summary 
